@@ -83,3 +83,4 @@ $conf['oauth_google_redirectUri']  = '';
 $conf['oauth_google_developerKey'] = '';
 
 
+#algo para que funcione
