@@ -1,0 +1,19 @@
+vesuvius/conf/sahana.conf
+vesuvius/www/tmp
+vesuvius/www/.htaccess
+.project
+.settings
+.buildpath
+vesuvius/time
+vesuvius/version
+vesuvius/.externalToolBuilders
+vesuvius/mod/dpa/bin/*
+.idea
+.idea/*
+.htaccess
+vesuvius/res/translation_log.txt
+# Keep empty directories:
+!*/.git*
+conf/sahana.conf
+sahana.conf
+.DS_Store
